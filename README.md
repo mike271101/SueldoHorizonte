@@ -9,4 +9,4 @@
 | Matamoros Vera, Juan Carlos | Desarrollador |
 | Montes Velasquez, Patrick Erick | Desarrollador |
 | Perez Cardenas, Frank | Desarrollador |
-| Solorzano Valencia, Lennyn Vladimir | Desarrollador |
+| Solorzano Valencia, Lenin Vladimir | Desarrollador |
