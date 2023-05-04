@@ -3,6 +3,10 @@
 ## Implementar el calculo del sueldo a pagar por la empresa Horizonte
 # Integrantes del equipo de desarrollo
 | Apellidos y Nombres | Rol |
-| crispin oncebay, maicol | Scrum master |
-| nvnrvnrvnrnvrnvrnvrnver | Dueñ del Proyecto |
-| rvbjrnbvjrvrvnbrnvrbvr | Desarrollador |
+| -------------------- | --- |
+| Angeles Lara, Jeanpool | Scrum master |
+| Crispin Oncebay, maicol | Dueño del Proyecto |
+| Matamoros Vera, Juan Carlos | Desarrollador |
+| Montes Velasquez, Patrick Erick | Desarrollador |
+| Perez Cardenas, Frank | Desarrollador |
+| Solorzano Valencia, Lennyn Vladimir | Desarrollador |
