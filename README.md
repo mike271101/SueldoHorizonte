@@ -6,6 +6,7 @@
   | ------------------- | --- |
   | Angeles Lara Jean Pool | Scrum Master |
   | Crispin Oncebay Maicol | Dueño del proyecto |
+  | Montes Vasquez Patrick Erick | Desarrollador |
   | Solorzano Valencia Lenin | Desarrollador |
   | Perez Cardenas Frank  | Desarrollador |
   | Solorzano Valencia Lenin Vladimir | Desarrollador |
